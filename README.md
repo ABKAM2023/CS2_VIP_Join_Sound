@@ -8,7 +8,7 @@
   "JoinSound" "sounds/music/vip_join.vsnd_c"
 ```
 В файл `vip.phrases.txt` добавьте следующее:
-```ini
+```
     "JoinSound"
     {
         "en"    "Join Sound"
